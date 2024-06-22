@@ -12,7 +12,6 @@ Thumbs.db
 
 dist
 node_modules
-package-lock.json
 atomically.cjs
 .nyc_output
 .tap
